@@ -1,4 +1,5 @@
 ### Hi there 👋
+###I'm a Software Developer. I have a knack for everything at the moment. Explore my repos...
 
 <!--
 **Purity-Wanjiku/Purity-Wanjiku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
